@@ -4,26 +4,22 @@
 # О себе
 В настоящее время работаю в банковско-транзакционном секторе.  Заинтересован в анализе данных с помощью ML/DL фреймворков.  Также занимаюсь созданием аналитических панелей для бизнеса с использованием Superset/Metabase.  Имею скиллы для вывода  в прод, а также активно изучаю MLOps.  В свободное время учусь новым способам анализа данных /  генерации контента с помощью Graph Neural Networks и StyleGAN'S.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
 
 # Опыт работы
-Multicarta Junior+ Data Scientist NOV2021-IN PROGRESS
-2. From scratch, analyzed new NLP data on the load of transactional operations in the area of ​​control, by building dashboards, updating in the nature of time in the Superset by ordering the current current load and the amount of free ETH Gas in smart contracts
-3. Daily trained the production NLP model to improve the accuracy of the model. Implemented Named Object Recognition (NER) and input data clustering into a production service.
-4. Implemented the DeepPavlov DREAM AI bot for text call clustering to increase the productivity of acquiring engineers to speed up ATM service.
-## Education
+## Multicarta Junior+ Data Scientist NOV2021-IN PROGRESS
+- С нуля анализировал новые данные NLP по нагрузке транзакционных операций в блокчейне, с помощью построения дешбордов, обновляемых в реальном времени в Superset показывал бизнесу нынешнюю нагрузку и количество свободного ETH Gas в смарт- контрактах
+- Ежедневно ообучал продакшн модель NLP для повышения точности модели. Реализовал распознавание именованных объектов (NER) и кластеризацию входных данных в производственный сервис.
+- Реализовал бота DeepPavlov DREAM AI для кластеризации текстовых обращений для повышения производительности инженеров- эквайеров для ускорения обслуживания банкоматов
 
-### Header 3
+# Образование
+1. НИУ ВШЭ СПб
+СТЕПЕНЬ БАКАЛАВРА 2016-2020
+GPA: 7.57/10
+2. НИУ ВШЭ Москва
+СТЕПЕНЬ МАГИСТРА 2020-2022
+GRA: 8/10
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
