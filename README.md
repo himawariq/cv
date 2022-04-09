@@ -1,10 +1,7 @@
-#Sokolov Alexander Vladislavovich
-JUN+ Analyst Data Scientist
-## Welcome to GitHub Pages
+## Sokolov Alexander Vladislavovich
+Позиция JUN+ Analyst Data Scientist
 
-You can use the [editor on GitHub](https://github.com/himawariq/cv/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+В настоящее время работаю в банковско-транзакционном секторе.  Заинтересован в анализе данных с помощью ML/DL фреймворков.  Также занимаюсь созданием аналитических панелей для бизнеса с использованием Superset/Metabase.  Имею скиллы для вывода  в прод, а также активно изучаю MLOps.  В свободное время учусь новым способам анализа данных /  генерации контента с помощью Graph Neural Networks и StyleGAN'S.
 
 ### Markdown
 
